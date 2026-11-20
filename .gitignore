@@ -1,0 +1,7 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+# TunerPreview draws these too, for checking the design; the README does not show them.
+docs/edited-dark.png
+docs/disconnected-light.png
